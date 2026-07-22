@@ -1,0 +1,140 @@
+[30-Nov-2025 13:28:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/app.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/app.php on line 28
+[30-Nov-2025 13:28:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/mail.php on line 16
+[30-Nov-2025 13:28:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/database.php on line 18
+[01-Dec-2025 02:10:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/database.php on line 18
+[01-Dec-2025 02:10:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/app.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/app.php on line 28
+[01-Dec-2025 02:10:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/mail.php on line 16
+[23-Dec-2025 10:59:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/services.php on line 18
+[26-Apr-2026 05:23:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/database.php on line 18
+[26-Apr-2026 05:23:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/mail.php on line 16
+[26-Apr-2026 05:23:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/services.php on line 18
+[29-Apr-2026 00:38:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/services.php on line 18
+[29-Apr-2026 00:38:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/app.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/app.php on line 28
+[29-Apr-2026 00:38:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/mail.php on line 16
+[29-Apr-2026 00:38:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/database.php on line 18
+[29-Apr-2026 00:41:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/filesystems.php on line 16
+[29-Apr-2026 00:41:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/queue.php on line 16
+[29-Apr-2026 00:41:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/broadcasting.php on line 18
+[29-Apr-2026 00:41:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/logging.php on line 21
+[29-Apr-2026 00:42:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/database.php on line 18
+[29-Apr-2026 00:42:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/mail.php on line 16
+[29-Apr-2026 00:42:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/app.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/app.php on line 28
+[29-Apr-2026 00:42:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/services.php on line 18
+[04-May-2026 05:58:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/services.php on line 18
+[04-May-2026 05:58:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/mail.php on line 16
+[21-Jun-2026 01:37:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/database.php on line 18
+[21-Jun-2026 01:37:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/mail.php on line 16
+[21-Jun-2026 01:37:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/app.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/app.php on line 28
+[21-Jun-2026 01:37:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/services.php on line 18
+[21-Jun-2026 01:38:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/cache.php on line 18
+[14-Jul-2026 23:21:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/app.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/app.php on line 28
+[14-Jul-2026 23:21:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/database.php on line 18
+[19-Jul-2026 01:02:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/mail.php on line 16
+[19-Jul-2026 01:02:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/services.php on line 18
+[19-Jul-2026 01:02:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/app.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/app.php on line 28
+[19-Jul-2026 01:02:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hosemy/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/config/database.php on line 18

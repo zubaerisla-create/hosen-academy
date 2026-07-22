@@ -1,0 +1,4 @@
+[29-Apr-2026 00:41:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/hosemy/public_html/app/Models/User.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/hosemy/public_html/app/Models/User.php on line 13
