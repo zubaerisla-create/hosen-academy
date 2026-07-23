@@ -10,7 +10,6 @@
 /public/uploads/*.png
 /public/uploads/*.mp4
 /public/uploads
-/resources/views/components/home_made_by_builder
 /storage/*.key
 /vendor
 .env.backup

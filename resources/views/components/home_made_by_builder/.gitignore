@@ -1,0 +1,2 @@
+# Allow tracking builder blade templates for deployment
+!.gitignore
