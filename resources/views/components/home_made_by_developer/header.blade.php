@@ -19,7 +19,7 @@
                     </a>
                 </div>
             </div>
-            <div class="col-auto">
+            <div class="col-auto d-none d-lg-block">
                 <div class="header-menu d-flex justify-content-end me-lg-auto ms-lg-0 ms-auto mt-2 pt-1">
                     <div class="nav-menu w-100">
                         <ul class="primary-menu main-menu-ul d-flex align-items-center w-100 drop-area">
@@ -401,10 +401,10 @@
                                 </div>
                             </li>
                             <li><a href="{{ route('bootcamps') }}" class="btn btn-toggle-list d-inline-flex align-items-center text-16px fw-500 w-100 rounded border-0 py-3">{{ get_phrase('Bootcamp') }}</a></li>
-                            <li><a class="btn btn-toggle-list d-inline-flex align-items-center text-16px fw-500 w-100 rounded border-0 py-3" href="{{ route('ebooks') }}" class="@if ($current_route == 'ebooks' || $current_route == 'ebook.details') active @endif">{{ get_phrase('Ebooks') }}</a>
-                            </li>
+                            <li><a href="{{ route('ebooks') }}" class="btn btn-toggle-list d-inline-flex align-items-center text-16px fw-500 w-100 rounded border-0 py-3">{{ get_phrase('Ebooks') }}</a></li>
+                            <li><a href="{{ route('software.shop') }}" class="btn btn-toggle-list d-inline-flex align-items-center text-16px fw-500 w-100 rounded border-0 py-3"><i class="fa-solid fa-store me-2 text-primary"></i>{{ get_phrase('Software Shop') }}</a></li>
                             <li><a href="{{ route('course.bundles') }}" class="btn btn-toggle-list d-inline-flex align-items-center text-16px fw-500 w-100 rounded border-0 py-3">{{ get_phrase('Course Bundle') }}</a></li>
-                            {{-- <li><a href="{{ route('team.packages') }}" class="btn btn-toggle-list d-inline-flex align-items-center text-16px fw-500 w-100 rounded border-0 py-3">{{ get_phrase('Team Training') }}</a></li> --}}
+                            <li><a href="{{ route('tutor_list') }}" class="btn btn-toggle-list d-inline-flex align-items-center text-16px fw-500 w-100 rounded border-0 py-3">{{ get_phrase('Find A Tutor') }}</a></li>
                         </ul>
                     </div>
                     @guest
