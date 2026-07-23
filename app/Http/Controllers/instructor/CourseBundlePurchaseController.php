@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers\student;
+namespace App\Http\Controllers\instructor;
 
 use App\Http\Controllers\Controller;
 use App\Models\OfflinePayment;
