@@ -23,6 +23,7 @@ npm-debug.log
 yarn-error.log
 /.fleet
 /.idea
+.env
 /.vscode
 
 # Ignore macOS .DS_Store files
