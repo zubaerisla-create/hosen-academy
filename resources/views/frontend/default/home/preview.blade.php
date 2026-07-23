@@ -11,7 +11,7 @@
     @else
         @php $builder_files = $builder->html ? json_decode($builder->html, true) : []; @endphp
         @foreach ($builder_files as $builder_file_name)
-            @include('components.home_made_by_builder.'.$builder_file_name)
+            @includeFirst(['components.home_made_by_builder.'.$builder_file_name, 'components.home_made_by_developer.'.$builder_file_name])
         @endforeach
     @endif
 @endsection
